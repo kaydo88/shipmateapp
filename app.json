@@ -1,0 +1,17 @@
+{
+  "name": "Shipmate",
+  "description": "USNA Shipmate",
+  "keywords": [
+    "usna",
+    "shipmate",
+    "Golang"
+  ],
+  "repository": "https://github.com/kaydo88/shipmateapp",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/kr/heroku-buildpack-go.git",
+    "PORT": {
+      "description": "Web server listening port.",
+      "value": "80"
+    }
+  }
+}
