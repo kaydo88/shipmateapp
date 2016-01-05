@@ -1,1 +1,1 @@
-web: shipmate
+web: shipmateapp
